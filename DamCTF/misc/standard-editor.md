@@ -114,7 +114,7 @@ remaining arguments are names of input files; if no input files are
 specified, then the standard input is read
 ```
 You can see the steps I took to manually get this error:
-![I hate alt text](https://github.com/looy3/ctf-writeups/DamCTF/misc/imsadsadsadsaage.png)
+![I hate alt text](https://github.com/looy3/ctf-writeups/blob/main/DamCTF/misc/imsadsadsadsaage.png)
 
 I didn't bother with executing code from sed using . and rather focused on -. First, I tried --version. This worked. I found that we were using the latest version of GNU Sed.
 ```
@@ -148,10 +148,13 @@ Dir access was blocked. Sed does allow for numerous wild cards though. But even 
 
               add the contents of script-file to the commands to be executed
               ```
-Pretty sure I could use that to execute a script file I made using ed (as I could only run one command in sed before session ended). Thus, the following payload, which contains a sed command ```(s/.*/cd ..; ls .. -a; cd ..; cat flag/e)``` inside a script named 'script.txt' is executed by another file written as --file=script.txt with contents --file=script.txt. This finally provided the much wanted flag:
+Pretty sure I could use that to execute a script file I made using ed (as I could only run one command in sed before session ended). Thus, the following payload, which contains a sed command 
+```(s/.*/cd ..; ls .. -a; cd ..; cat flag/e)``` 
+inside a script named 'script.txt' is executed by another file written as --file=script.txt with contents --file=script.txt. This finally provided the much wanted flag:
 ```
 dam{is_it_w31rd_that_i_u53_ed(1)_4_fun?}
 ```
+
 This is the full script with all of its sockets :P
 ```
 import socket
