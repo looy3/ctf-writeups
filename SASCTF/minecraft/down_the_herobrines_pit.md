@@ -19,7 +19,7 @@ Ok, I booted up a modded client. The server had cheat prevention tools. That's a
 ## What I learned
 
 ---
-Pretty much nothing. I did it by hand. 
+Pretty much nothing. I did it by hand, using ESP to confirm if a route was a deadend or not. 
 I guess... if something? 
 - Use modded clients
 - Don't play dumb CTF challenges
