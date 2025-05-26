@@ -114,7 +114,7 @@ remaining arguments are names of input files; if no input files are
 specified, then the standard input is read
 ```
 You can see the steps I took to manually get this error:
-![I hate alt text](https://github.com/looy3/ctf-writeups/blob/main/DamCTF/misc/imsadsadsadsaage.png)
+![I hate alt text](https://github.com/looy3/ctf-writeups/blob/main/DamCTF/misc/imgs/imsadsadsadsaage.png)
 
 I didn't bother with executing code from sed using . and rather focused on -. First, I tried --version. This worked. I found that we were using the latest version of GNU Sed.
 ```

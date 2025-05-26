@@ -16,9 +16,9 @@ Library % ls
 DIM1  DIM-1  advancements  data  entities  icon.png  level.dat  level.dat_old  playerdata  poi  region  session.lock  stats
 ```
 Pretty obviously a minecraft saves file. We not only have level data, an icon, region data, but we also have advancements (which are saved locally in minecraft). I moved it to my C:/Users/tjesau/AppData/Roaming/.minecraft/saves and booted up minecraft. Sure enough, minecraft recognized it as a valid save file. The world I loaded into looked like this:
-![I hate alt text](https://github.com/looy3/ctf-writeups/blob/main/SASCTF/minecraft/world.png)
-![I hate alt text](https://github.com/looy3/ctf-writeups/blob/main/SASCTF/minecraft/books.png)
-![I hate alt text](https://github.com/looy3/ctf-writeups/blob/main/SASCTF/minecraft/book.png)
+![I hate alt text](https://github.com/looy3/ctf-writeups/blob/main/SASCTF/minecraft/imgs/world.png)
+![I hate alt text](https://github.com/looy3/ctf-writeups/blob/main/SASCTF/minecraft/imgs/books.png)
+![I hate alt text](https://github.com/looy3/ctf-writeups/blob/main/SASCTF/minecraft/imgs/book.png)
 
 As you can see, it was a single chunk with a ton of item frames with books containing the entirety of Moby Dick inside. I used to play around with command blocks a lot, so I quickly knew that these were entities. Thus, I navigated to the saves/Library/entities. Only one anvil file had a size indicating so much text: r.0.0.mca. It was 1.6MB, which indicates a looooot of entities or entity data. Having previously needed to delete entity data on a minecraft server (to prevent crashing/fix a corrupted save), I knew where to go to access it. I downloaded an app called NBTExplorer (In hindsight, use NBTStudio, it's way better), loaded the relevant mca file, and searched for values which might be related to the challenge. "SAS" revealed nothing but "{" gave me this: 
 ```
