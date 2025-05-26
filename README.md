@@ -1,5 +1,5 @@
 
-# My CTF Web Challenges
+# CTF Challenges
 
 This is a repository of some CTF Challenges I've solved.
 
