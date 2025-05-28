@@ -16,6 +16,7 @@ I proceeded by printing the contents of flaghasher with cat. Of course, as a bin
 . I tried cat-ing /root/flag.txt, despite knowing I almost certainly would not have permissions to do so. So I confirmed that
 1. I don't have perms for root directory
 2. flaghasher has perms to execute commands on root directory
+
 The simplest next step was to modify the binary so it would print flag.txt, if it was running md5sum on it in plaintext. I'm not sure if this would work but I tried anyways. Unfortunately, the system didn't have nano, vim, or even ed installed. 
 So I realized I'd have to take a more novel (for me) approach. I created a local file named `md5sum` to try to fool the binary. I first created it through
 ```echo '#~/bin/bash' > md5sum```
