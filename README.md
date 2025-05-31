@@ -18,6 +18,7 @@ This is a repository of some CTF Challenges I've solved.
        * [rev](https://github.com/looy3/ctf-writeups/tree/main/PicoGym/Medium/rev)
           * [gdb-baby-steps-1](https://github.com/looy3/ctf-writeups/blob/main/PicoGym/Medium/rev/gdb-baby-steps-1.md)
           * [gdb-baby-steps-2](https://github.com/looy3/ctf-writeups/blob/main/PicoGym/Medium/rev/gdb-baby-steps-2.md)
+		  * [picker-I](https://github.com/looy3/ctf-writeups/blob/main/PicoGym/Medium/rev/picker-I.md)
 * [SASCTF2025](https://github.com/looy3/ctf-writeups/tree/main/SASCTF/minecraft)
     * [Down the Herobrine's Pit](https://github.com/looy3/ctf-writeups/blob/main/SASCTF/minecraft/down_the_herobrines_pit.md)
     * [Library](https://github.com/looy3/ctf-writeups/blob/main/SASCTF/minecraft/library.md)
