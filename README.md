@@ -20,7 +20,7 @@ This is a repository of some CTF Challenges I've solved.
     	  * [A-Bit-O-Asm-3](https://github.com/looy3/ctf-writeups/blob/main/PicoGym/Medium/rev/A-Bit-O-Asm-3.md)
     	  * [A-Bit-O-Asm-4](https://github.com/looy3/ctf-writeups/blob/main/PicoGym/Medium/rev/A-Bit-O-Asm-4.md)
     	  * [asm1](https://github.com/looy3/ctf-writeups/blob/main/PicoGym/Medium/rev/asm1.md)
-          	* [gdb-baby-steps-1](https://github.com/looy3/ctf-writeups/blob/main/PicoGym/Medium/rev/gdb-baby-steps-1.md)
+         * [gdb-baby-steps-1](https://github.com/looy3/ctf-writeups/blob/main/PicoGym/Medium/rev/gdb-baby-steps-1.md)
           * [gdb-baby-steps-2](https://github.com/looy3/ctf-writeups/blob/main/PicoGym/Medium/rev/gdb-baby-steps-2.md)
 	       * [picker-I](https://github.com/looy3/ctf-writeups/blob/main/PicoGym/Medium/rev/picker-I.md)
     	  * [picker-II](https://github.com/looy3/ctf-writeups/blob/main/PicoGym/Medium/rev/picker-II.md)
