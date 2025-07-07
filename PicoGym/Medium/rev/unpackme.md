@@ -13,7 +13,11 @@ Can you get the flag?
 Reverse engineer this binary.
 
 ```
-The binary is clearly UPX-packed. I installed upx and ran
+The binary is clearly UPX-packed. It's hard to read so I ran
+```
+grep -a "UPX" unpackme-upx.1
+```
+I installed upx and ran
 ```
 upx -d unpackme
 ```
