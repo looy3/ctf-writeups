@@ -1,4 +1,4 @@
-# SASCTF2025 - Library writeup
+# SASCTF2025 Quals - Library writeup
 
 - Write-Up Author: looy3 
 
