@@ -1,4 +1,8 @@
+<<<<<<< HEAD:SASCTF-Quals/minecraft/down_the_herobrines_pit.md
 # SASCTF2025 Quals - Library writeup
+=======
+# SASCTF2025 - Down the Herobrines Pit writeup
+>>>>>>> 160065b8467b3952ed4537b84bceef53076c1843:SASCTF/minecraft/down_the_herobrines_pit.md
 
 - Write-Up Author: looy3 
 
