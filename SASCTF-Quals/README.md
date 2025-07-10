@@ -1,4 +1,4 @@
-# SASCTF2025 - Team 14
+# SASCTF2025 Quals - Team 14
 
 ---
 
