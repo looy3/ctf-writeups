@@ -28,7 +28,7 @@ This is a repository of some CTF Challenges I've solved.
     * [Hard Challenges](https://github.com/looy3/ctf-writeups/tree/main/PicoGym/Hard)
        * [Forensics](https://github.com/looy3/ctf-writeups/tree/main/PicoGym/Medium/Forensics)
     	  * [WebNet0](https://github.com/looy3/ctf-writeups/blob/main/PicoGym/Hard/Forensics/WebNet0.md)
-* [SASCTF2025](https://github.com/looy3/ctf-writeups/tree/main/SASCTF/minecraft)
-    * [Down the Herobrine's Pit](https://github.com/looy3/ctf-writeups/blob/main/SASCTF/minecraft/down_the_herobrines_pit.md)
-    * [Library](https://github.com/looy3/ctf-writeups/blob/main/SASCTF/minecraft/library.md)
+* [SASCTF2025 Quals](https://github.com/looy3/ctf-writeups/tree/main/SASCTF-Quals/minecraft)
+    * [Down the Herobrine's Pit](https://github.com/looy3/ctf-writeups/blob/main/SASCTF-Quals/minecraft/down_the_herobrines_pit.md)
+    * [Library](https://github.com/looy3/ctf-writeups/blob/main/SASCTF-Quals/minecraft/library.md)
   
