@@ -1,5 +1,5 @@
 
-# SASCTF2025 - Down the Herobrines Pit writeup
+# SASCTF2025 Quals - Down the Herobrines Pit writeup
 
 - Write-Up Author: looy3 
 
