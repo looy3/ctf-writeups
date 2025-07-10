@@ -1,4 +1,4 @@
-# SASCTF2025 - Library writeup
+# SASCTF2025 - Down the Herobrines Pit writeup
 
 - Write-Up Author: looy3 
 
