@@ -8,3 +8,9 @@
 
 # Challenge Writeups
 
+   * [misc](https://github.com/looy3/ctf-writeups/tree/main/L3AKCTF%202025/Misc)
+	  * [whiteSpace](https://github.com/looy3/ctf-writeups/blob/main/L3AKCTF%202025/Misc/whitespace.md)
+   * [mobile](https://github.com/looy3/ctf-writeups/tree/main/L3AKCTF%202025/Mobile)
+   	  * [braincalc](https://github.com/looy3/ctf-writeups/blob/main/L3AKCTF%202025/Mobile/Braincalc.md)
+   * [rev](https://github.com/looy3/ctf-writeups/tree/main/L3AKCTF%202025/rev)
+   	  * [braincalc](https://github.com/looy3/ctf-writeups/blob/main/L3AKCTF%202025/Rev/babyRev.md)
