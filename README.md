@@ -9,6 +9,13 @@ This is a repository of some CTF Challenges I've solved.
 
 * [DamCTF2025](https://github.com/looy3/ctf-writeups/tree/main/DamCTF/misc)
     * [Standard Editor](https://github.com/looy3/ctf-writeups/blob/main/DamCTF/misc/standard-editor.md)
+* [L3AKCTF2025](https://github.com/looy3/ctf-writeups/tree/main/L3AKCTF%202025)
+   * [misc](https://github.com/looy3/ctf-writeups/tree/main/L3AKCTF%202025/Misc)
+	  * [whiteSpace](https://github.com/looy3/ctf-writeups/blob/main/L3AKCTF%202025/Misc/whitespace.md)
+   * [mobile](https://github.com/looy3/ctf-writeups/tree/main/L3AKCTF%202025/Mobile)
+   	  * [braincalc](https://github.com/looy3/ctf-writeups/blob/main/L3AKCTF%202025/Mobile/Braincalc.md)
+   * [rev](https://github.com/looy3/ctf-writeups/tree/main/L3AKCTF%202025/rev)
+   	  * [braincalc](https://github.com/looy3/ctf-writeups/blob/main/L3AKCTF%202025/Rev/babyRev.md)
 * [PicoGym](https://github.com/looy3/ctf-writeups/tree/main/PicoGym)
     * [Medium Challenges](https://github.com/looy3/ctf-writeups/tree/main/PicoGym/Medium)
        * [pwn](https://github.com/looy3/ctf-writeups/tree/main/PicoGym/Medium/pwn)
