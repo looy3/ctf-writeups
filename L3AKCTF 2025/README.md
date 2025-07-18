@@ -7,22 +7,33 @@ I solved
 Misc: 
 - Sanity check
 - White space
+
+
 Crypto:
+
 - Basic LLL
 Mobile:
 - Brain calc
 OSINT:
+
 - Grain of truth
 - mountain view
 - Sunny day
 - Elephant enclosure
+
 Web:
-- Flag L3ak
+
+- Flag L3AK
+
 Hardware-RF:
 - Strange transmission
+
 Hashcracking:
+
 - mildly disasterous security
+
 Rev:
+
 - Baby rev
 ---
 
