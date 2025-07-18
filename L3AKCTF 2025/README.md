@@ -12,8 +12,11 @@ Misc:
 Crypto:
 
 - Basic LLL
+
 Mobile:
+
 - Brain calc
+
 OSINT:
 
 - Grain of truth
