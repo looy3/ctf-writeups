@@ -1,7 +1,7 @@
 
 # CTF Challenges
 
-This is a repository of some CTF Challenges I've solved.
+This is a repository of some CTF Challenges I've solved...
 
 
 
