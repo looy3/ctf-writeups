@@ -12,7 +12,7 @@ The hint:
 This program has constructed the flag using hex ascii values. Identify the flag text by disassembling the program.
 You can download the file from here.
 ```
-I first ran file on the file.
+I first ran file on the file...
 ```
 
 asciiftw: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=055f4d31f776ff9fba2b38d7e67a7d8a65cdd301, for GNU/Linux 3.2.0, not stripped
