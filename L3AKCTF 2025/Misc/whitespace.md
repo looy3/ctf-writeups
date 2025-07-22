@@ -1,4 +1,4 @@
-# L3AKCTF 2025 - Whitespace
+I'm# L3AKCTF 2025 - Whitespace
 
 - Write-Up Author: looy3 
 
@@ -824,7 +824,9 @@ def main():
 if __name__ == "__main__":
     main()
 
-	```
+
+
+```
 
 I then calculated the total number of possibilities. Unfortunately, it remained quite high at 10,147,616,633,877,474,956,437,094,400. Thus, I combed through the possible combinations by hand and tried to handwrite as much of the flag as possible, reducing the total number of required calculations. I knew the flag started with L3AK{ and ended with }. I quickly found this quite easy to do and came up with
 ```
