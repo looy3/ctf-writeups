@@ -4,7 +4,9 @@
 
 [IBlueDust](https://github.com/iBlueDust) and I achieved 215th/1587 teams. I completed twelve challenge and he completed six.
 I solved
+
 Misc: 
+
 - Sanity check
 - White space
 
