@@ -823,7 +823,9 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 	```
+
 I then calculated the total number of possibilities. Unfortunately, it remained quite high at 10,147,616,633,877,474,956,437,094,400. Thus, I combed through the possible combinations by hand and tried to handwrite as much of the flag as possible, reducing the total number of required calculations. I knew the flag started with L3AK{ and ended with }. I quickly found this quite easy to do and came up with
 ```
 L3AK{jus7_p4tt3rn_m4tch1ng_4t_f1rs7_bu7_th3n_y0u_n33d_4_
